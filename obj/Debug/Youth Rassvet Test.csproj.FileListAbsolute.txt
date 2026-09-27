@@ -1,0 +1,48 @@
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\Youth Rassvet Test.exe.config
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\Youth Rassvet Test.exe
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\Youth Rassvet Test.pdb
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\Guna.UI2.dll
+D:\VS\Source\repos\Youth Rassvet Test\obj\Debug\Youth Rassvet Test.csproj.AssemblyReference.cache
+D:\VS\Source\repos\Youth Rassvet Test\obj\Debug\Youth_Rassvet_Test.Main_Form.resources
+D:\VS\Source\repos\Youth Rassvet Test\obj\Debug\Youth_Rassvet_Test.Properties.Resources.resources
+D:\VS\Source\repos\Youth Rassvet Test\obj\Debug\Youth Rassvet Test.csproj.GenerateResource.cache
+D:\VS\Source\repos\Youth Rassvet Test\obj\Debug\Youth Rassvet Test.csproj.CoreCompileInputs.cache
+D:\VS\Source\repos\Youth Rassvet Test\obj\Debug\Youth Ra.F08C12F0.Up2Date
+D:\VS\Source\repos\Youth Rassvet Test\obj\Debug\Youth Rassvet Test.exe
+D:\VS\Source\repos\Youth Rassvet Test\obj\Debug\Youth Rassvet Test.pdb
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\Google.Apis.Auth.dll
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\Google.Apis.Core.dll
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\Google.Apis.dll
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\Google.Apis.Sheets.v4.dll
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\Newtonsoft.Json.dll
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\System.CodeDom.dll
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\Google.Apis.pdb
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\Google.Apis.xml
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\Google.Apis.Auth.pdb
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\Google.Apis.Auth.xml
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\Google.Apis.Core.pdb
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\Google.Apis.Core.xml
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\Google.Apis.Sheets.v4.pdb
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\Google.Apis.Sheets.v4.xml
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\Newtonsoft.Json.xml
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\System.CodeDom.xml
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\System.Buffers.dll
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\System.IO.Pipelines.dll
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\System.Memory.dll
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\System.Numerics.Vectors.dll
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\System.Text.Encodings.Web.dll
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\System.Text.Json.dll
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\System.ValueTuple.dll
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\System.Buffers.xml
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\System.IO.Pipelines.xml
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\System.Memory.xml
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\System.Numerics.Vectors.xml
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\System.Text.Encodings.Web.xml
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\System.Text.Json.xml
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\VS\Source\repos\Youth Rassvet Test\bin\Debug\System.ValueTuple.xml
