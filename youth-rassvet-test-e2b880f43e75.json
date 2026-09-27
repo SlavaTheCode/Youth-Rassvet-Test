@@ -1,13 +1,13 @@
 {
   "type": "service_account",
   "project_id": "youth-rassvet-test",
-  "private_key_id": "e2b880f43e758057a4e5d9fab09d03a306ed3bf3",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDCooDPg3RmDuNr\npl/cwwlhYG3PJgV8eOh8jJFjPA4jBSplX+iVwoO8YfKhdJrt0IVLEYu8qHXpSYQE\nLesdwfOf1vgVpxLqxqCjygpy9sR9kUvJHkc2PbwarnOUGqvlJA1i2i4w2ZU86GbB\nDmwRNXx8ANL/z3ONaj+jf5EfTYOAOhfD3ONzmzJNZaDDpeMF/wEvUYZsT2dium6N\nbewgt3mZFtfA6CP2joVgth7dZr3JU54lPMxieNwnZHeZRcQB7YDziW8wTD6ZaeiN\nWUaCxL1ZyXJaMVoKfdewwMznydKe3euCD3NU/kvNfQ+uzxwvboEJhU09hHQG3+pM\nLuhSWnRPAgMBAAECggEAGpATVKl5ScfEuYzdGWO+1HzUul193dp3Htm6VS49iaxV\n+GbfTGJdwz3PihcVYS5rpUPxll+b/qjLV8dX3ARRIPfgJ2hZWGmfmSrk7oKyF1Gs\njk1Pul3biFKrBcP2wLuBCNmDo07BTizeKoEy4M20Ew0JFDjLlDmzZ2IXZrZtTiL3\n2+tlhS1SCTxcDjRyNeX0kW+dW4YWLhbydWUacpMrJ+2bcEqzL6lbUsnsOv77KCcv\nXxgjkQNO5jGws8eJ89Lk1iIcR8Eo+EfVZG0DI2m7sk1GebxxN3YmvJekk9eWht6X\nAO4dX6zyOU0/Cf6L6PxpfITFuI4yXW2dK1tyI4EagQKBgQDpzSvfUj+UMJrIqT76\nqjuG7YrOHHf9SabkJ8FYM48MOywFH02S1WKo7DQ8mKn+wJSll7dPl8IJRWl9xzG3\nqUOJWD+ZSZz/3NiLbDsrYIMln01uu4RQsnKqyS1RxpEntNnUx0jmP3KMk3oLR9OK\ndPsdmCmO8z3tT5MuRHhgXEo0gQKBgQDVHVaSg107wsit++e6akBI5/qgisfRtF71\nTgy20Pixg1ojOCuvllznx83+dqhVmK0f18RBdXeTj64UvsjybaODXMA3+TgQ7vyB\nXLdTydd83tcHaXNtMJUb1YnDgq8g2jG3RRVR2O38QEzJEk6K260q40CS/W66ZiW9\nLjwkvVoAzwKBgCYEwAqblE0jrjfNFbmrLuzc+cJUbMqaTHIzaMRP9gX2JU1b7sBe\nxKFVb5Ue+h278TAQQLXHprzdNa9HUfVcp+fQmt7xUn9kyS261tBR7GGUywGjqnt4\n2R6egikXEgmT5gwsr9UJIjZr0N++uU59gUwprzBYq4xIcVWHus9okoSBAoGAFCbL\nCd2cEkuP2EvKlKj5XSt6WnXlASJSHFX+A8dszLRD8LKeBuNr84rEIryrnDRsomcv\nqpTl8rESX+nObIYLgR9jGafaMle2zrCqsSST2L3ljVDeVkPSxagCd9dCohOfwdmp\nc2zUzBZ0bErr3Ft7W2PTtlJ6huujw+i8TSkOeqcCgYA2eZJBInVPfZ/3MY/wS5c7\n9f7/d0TXovNpTPaD7R3uLZawWGEpfV4yWcFoVXk+kN/9hyQmRGR6oYmOZLqc8HV4\nb5BBTazofbWu0HDLygh+8gWtj/naU/sQHpld8oGmwWwf82HgtYrtYQA3hbWimPdv\nIXkiG9daYcTjWrM0icdftA==\n-----END PRIVATE KEY-----\n",
-  "client_email": "youth-rassvet-test@youth-rassvet-test.iam.gserviceaccount.com",
-  "client_id": "101777631880980314343",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/youth-rassvet-test%40youth-rassvet-test.iam.gserviceaccount.com",
+  "private_key_id": "[TOP SECRET]",
+  "private_key": "[TOP SECRET]",
+  "client_email": "[TOP SECRET]",
+  "client_id": "[TOP SECRET]",
+  "auth_uri": "[TOP SECRET]",
+  "token_uri": "[TOP SECRET]",
+  "auth_provider_x509_cert_url": "[TOP SECRET]",
+  "client_x509_cert_url": "[TOP SECRET]",
   "universe_domain": "googleapis.com"
 }
